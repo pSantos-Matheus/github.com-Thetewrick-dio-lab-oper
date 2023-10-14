@@ -165,7 +165,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 ⚠️ Resolvendo, respondendo ou indicando  **issues**
 
 
-⭐ Adicionando aos favoritos (**star**) 
+⭐ Adicionando aos favoritos (*star**) 
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
