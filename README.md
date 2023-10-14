@@ -4,6 +4,11 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
     <p>Alteração feita para teste</p>
 </h1>
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
